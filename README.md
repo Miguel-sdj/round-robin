@@ -4,9 +4,6 @@ Atividade proposta pelo professor Erico Souza Teixeira e seu tutor Michael Alves
 
 Feito pelo aluno Miguel Cabral de Carvalho da turma A
 
-infelizmente não consegui completar a realização dessa atividade.
-
-
 
 ## Installation
 
